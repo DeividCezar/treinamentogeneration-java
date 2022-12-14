@@ -1,4 +1,4 @@
-package atividades;
+package introducaojava;
 
 import java.util.Scanner;
 import java.lang.Math;
